@@ -1,0 +1,11 @@
+Total correct collisions in percent: 32.66171792152704
+Episodes: 315
+Moves: 10017
+Time elapsed in seconds: 131
+Learning rate: 1
+Discount rate: 0.9
+Initial epsilon: 0
+Epsilon changed every move by: -0.0001
+Reward for green square: 100
+Reward for red square: -100
+Reward for move: 0.1 * (20 - distance) - 5
